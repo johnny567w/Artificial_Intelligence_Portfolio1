@@ -1,0 +1,15 @@
+{
+  "target_classes": [
+    "car",
+    "airplane",
+    "truck"
+  ],
+  "max_images_per_class_train": 900,
+  "max_images_per_class_val": 300,
+  "img_size": 740,
+  "batch_size": 20,
+  "epochs": 20,
+  "seed": 42,
+  "conf_threshold": 0.25,
+  "iou_threshold": 0.5
+}
