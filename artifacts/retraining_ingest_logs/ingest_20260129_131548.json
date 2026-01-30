@@ -1,0 +1,10 @@
+{
+  "timestamp": "20260129_131548",
+  "human_detected": 0,
+  "auto_detected": 0,
+  "human_valid": 0,
+  "auto_valid": 0,
+  "human_invalid": [],
+  "auto_invalid": [],
+  "auto_min_boxes": 1
+}

@@ -4,11 +4,11 @@
     "airplane",
     "truck"
   ],
-  "max_images_per_class_train": 800,
-  "max_images_per_class_val": 200,
-  "img_size": 540,
-  "batch_size": 20,
-  "epochs": 14,
+  "max_images_per_class_train": 1200,
+  "max_images_per_class_val": 250,
+  "img_size": 640,
+  "batch_size": 16,
+  "epochs": 20,
   "seed": 42,
   "conf_threshold": 0.25,
   "iou_threshold": 0.5
